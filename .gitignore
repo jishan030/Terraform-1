@@ -4,8 +4,8 @@
 *.tfstate.*
 crash.log
 *.tfplan
+*.tfvars
 
 # Secrets
 *.pem
 .env
-Terraform-1/
